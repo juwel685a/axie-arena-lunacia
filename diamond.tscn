@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cefv0u4yaa5cs"]
+
+[ext_resource type="Script" uid="uid://cu2xcb4xb1erd" path="res://scripts/MAP/diamond.gd" id="1_vm430"]
+
+[node name="Diamond" type="Area3D" unique_id=1718866005]
+script = ExtResource("1_vm430")
