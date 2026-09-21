@@ -1,0 +1,44 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://d3mkcly2mp1xr"
+path.etc2="res://.godot/imported/27e35a98-ae5b-4120-bf51-90a87b14db41_9271993d3f70453d960bc4c5302be667_stylized_evergreen_tree_3d_model_rm.jpg-03b55c42506f8f0b70a25ed4b2b457ef.etc2.ctex"
+metadata={
+"imported_formats": ["etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "667c5ce29aca1b4b82c5ce31a190da21"
+}
+
+[deps]
+
+source_file="res://assets/trees/27e35a98-ae5b-4120-bf51-90a87b14db41_9271993d3f70453d960bc4c5302be667_stylized_evergreen_tree_3d_model_rm.jpg"
+dest_files=["res://.godot/imported/27e35a98-ae5b-4120-bf51-90a87b14db41_9271993d3f70453d960bc4c5302be667_stylized_evergreen_tree_3d_model_rm.jpg-03b55c42506f8f0b70a25ed4b2b457ef.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/uastc_level=0
+compress/rdo_quality_loss=0.0
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/channel_remap/red=0
+process/channel_remap/green=1
+process/channel_remap/blue=2
+process/channel_remap/alpha=3
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
